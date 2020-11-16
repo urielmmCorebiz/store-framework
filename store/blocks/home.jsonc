@@ -2,9 +2,10 @@
   "store.home": {
     "blocks": ["rich-text"]
   },
-
   "rich-text": {
-    "text": "**Hello, World!**",
-    "textPosition": "RIGHT"
+    "props": {
+      "text": "**Hello, World!**",
+      "textPosition": "RIGHT"
+    }
   }
 }
