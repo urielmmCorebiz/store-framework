@@ -1,7 +1,10 @@
 {
-  "store.home": { 
-    "blocks": [
-      
-    ]
+  "store.home": {
+    "blocks": ["rich-text"]
+  },
+
+  "richt-text": {
+    "text": "Hello, World!",
+    "textPosition": "RIGHT"
   }
 }
