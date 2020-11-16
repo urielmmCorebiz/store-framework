@@ -111,11 +111,9 @@
 
   "rich-text#mobile": {
     "props": {
-      "props": {
-        "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
-        "textPosition": "CENTER",
-        "textAlignment": "CENTER"
-      }
+      "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
     }
   },
   "image#mobile": {
