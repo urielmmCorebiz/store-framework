@@ -4,10 +4,10 @@
   },
 
   "flex-layout.row#main": {
+    "children": ["flex-layout.col#left", "flex-layout.col#right"],
     "props": {
       "marginTop": 6
-    },
-    "children": ["flex-layout.col#left", "flexl-layout.col#right"]
+    }
   },
 
   "flex-layout.col#left": {
