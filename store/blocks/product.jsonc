@@ -14,7 +14,7 @@
     "children": ["product-images"]
   },
 
-  "flex-layout-col#right": {
+  "flex-layout.col#right": {
     "children": ["product-name", "product-price", "buy-button"],
     "props": {
       "verticalAlign": "middle",
