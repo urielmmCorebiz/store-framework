@@ -3,8 +3,8 @@
     "blocks": ["rich-text"]
   },
 
-  "richt-text": {
-    "text": "Hello, World!",
+  "rich-text": {
+    "text": "**Hello, World!**",
     "textPosition": "RIGHT"
   }
 }
